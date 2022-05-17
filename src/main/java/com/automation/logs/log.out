@@ -1,0 +1,169 @@
+2022-05-17 16:05:328 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 16:05:50 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 16:05:276 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 16:05:49 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (e71e4b8b5e6e51a7ba1bccf5b280aac9)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 16:05:116 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (e71e4b8b5e6e51a7ba1bccf5b280aac9)] -> id: email]
+2022-05-17 16:05:172 INFO  SignInPage :57 - Click on create account[[ChromeDriver: chrome on WINDOWS (e71e4b8b5e6e51a7ba1bccf5b280aac9)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 17:05:320 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:700 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (c8e8e4a4296f4f73c84a4d187ba845dc)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:811 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (c8e8e4a4296f4f73c84a4d187ba845dc)] -> id: email]
+2022-05-17 17:05:877 INFO  SignInPage :57 - Click on create account[[ChromeDriver: chrome on WINDOWS (c8e8e4a4296f4f73c84a4d187ba845dc)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 17:05:251 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:597 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (3ad7f6be46f4d8e0932b1dfb72bba624)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:719 INFO  SignInPage :57 - Click on create account[[ChromeDriver: chrome on WINDOWS (3ad7f6be46f4d8e0932b1dfb72bba624)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 17:05:938 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (3ad7f6be46f4d8e0932b1dfb72bba624)] -> id: customer_firstname]
+2022-05-17 17:05:999 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 17:05:64 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (3ad7f6be46f4d8e0932b1dfb72bba624)] -> id: passwd]
+2022-05-17 17:05:900 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:741 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (3f363224e983534cf1d9930b95f29443)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:865 INFO  SignInPage :57 - Click on create account[[ChromeDriver: chrome on WINDOWS (3f363224e983534cf1d9930b95f29443)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 17:05:172 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (3f363224e983534cf1d9930b95f29443)] -> id: customer_firstname]
+2022-05-17 17:05:231 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 17:05:294 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (3f363224e983534cf1d9930b95f29443)] -> id: passwd]
+2022-05-17 17:05:150 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:684 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (58f949fe05975de7293d8b510ce4b1d8)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:811 INFO  SignInPage :57 - Click on create account[[ChromeDriver: chrome on WINDOWS (58f949fe05975de7293d8b510ce4b1d8)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 17:05:489 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (58f949fe05975de7293d8b510ce4b1d8)] -> id: customer_firstname]
+2022-05-17 17:05:547 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 17:05:609 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (58f949fe05975de7293d8b510ce4b1d8)] -> id: passwd]
+2022-05-17 17:05:670 INFO  CreateAccountPage :89 - Enter address[[ChromeDriver: chrome on WINDOWS (58f949fe05975de7293d8b510ce4b1d8)] -> id: address1]
+2022-05-17 17:05:378 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:516 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (1548e932df985a8b1a4d9a60b11e5846)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:545 INFO  SignInPage :48 - Authentication Text[[ChromeDriver: chrome on WINDOWS (1548e932df985a8b1a4d9a60b11e5846)] -> xpath: //h1[contains(text(),'Authentication')]]
+2022-05-17 17:05:536 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:105 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (c48f5e704f72010f27cc9c0464ffa79d)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:766 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:323 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:452 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (c7c734dbb31f58a7e4a51301f9a82f7a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:506 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (c7c734dbb31f58a7e4a51301f9a82f7a)] -> id: email]
+2022-05-17 17:05:577 INFO  SignInPage :65 - Enter password[[ChromeDriver: chrome on WINDOWS (c7c734dbb31f58a7e4a51301f9a82f7a)] -> id: passwd]
+2022-05-17 17:05:908 INFO  SignInPage :53 - Click on signin button[[ChromeDriver: chrome on WINDOWS (c7c734dbb31f58a7e4a51301f9a82f7a)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 17:05:939 INFO  SignInPage :69 - Get error Message[[ChromeDriver: chrome on WINDOWS (c7c734dbb31f58a7e4a51301f9a82f7a)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 17:05:556 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:862 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (173fd53e6253e0fe706881be902f7e19)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:926 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (173fd53e6253e0fe706881be902f7e19)] -> id: email]
+2022-05-17 17:05:983 INFO  SignInPage :65 - Enter password[[ChromeDriver: chrome on WINDOWS (173fd53e6253e0fe706881be902f7e19)] -> id: passwd]
+2022-05-17 17:05:07 INFO  SignInPage :53 - Click on signin button[[ChromeDriver: chrome on WINDOWS (173fd53e6253e0fe706881be902f7e19)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 17:05:39 INFO  SignInPage :69 - Get error Message[[ChromeDriver: chrome on WINDOWS (173fd53e6253e0fe706881be902f7e19)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 17:05:712 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:451 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (8996f1a94fcf03a231d2817ce9e4814c)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:510 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (8996f1a94fcf03a231d2817ce9e4814c)] -> id: email]
+2022-05-17 17:05:579 INFO  SignInPage :65 - Enter password[[ChromeDriver: chrome on WINDOWS (8996f1a94fcf03a231d2817ce9e4814c)] -> id: passwd]
+2022-05-17 17:05:810 INFO  SignInPage :53 - Click on signin button[[ChromeDriver: chrome on WINDOWS (8996f1a94fcf03a231d2817ce9e4814c)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 17:05:837 INFO  SignInPage :69 - Get error Message[[ChromeDriver: chrome on WINDOWS (8996f1a94fcf03a231d2817ce9e4814c)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 17:05:498 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 17:05:713 INFO  HomePage :28 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (cd82c7a289b93e27e7e117002beb7533)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 17:05:777 INFO  SignInPage :61 - Enter email[[ChromeDriver: chrome on WINDOWS (cd82c7a289b93e27e7e117002beb7533)] -> id: email]
+2022-05-17 17:05:837 INFO  SignInPage :65 - Enter password[[ChromeDriver: chrome on WINDOWS (cd82c7a289b93e27e7e117002beb7533)] -> id: passwd]
+2022-05-17 17:05:997 INFO  SignInPage :53 - Click on signin button[[ChromeDriver: chrome on WINDOWS (cd82c7a289b93e27e7e117002beb7533)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 17:05:28 INFO  SignInPage :69 - Get error Message[[ChromeDriver: chrome on WINDOWS (cd82c7a289b93e27e7e117002beb7533)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 18:05:558 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 18:05:976 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 18:05:764 INFO  HomePage :36 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (21e6244ba20d2922e59cf422891ed126)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 18:05:428 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 18:05:560 INFO  HomePage :36 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (5dd1acbc452f32f77b51b70c19fc71e9)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 18:05:634 INFO  SignInPage :65 - Enter email[[ChromeDriver: chrome on WINDOWS (5dd1acbc452f32f77b51b70c19fc71e9)] -> id: email]
+2022-05-17 18:05:699 INFO  SignInPage :69 - Enter password[[ChromeDriver: chrome on WINDOWS (5dd1acbc452f32f77b51b70c19fc71e9)] -> id: passwd]
+2022-05-17 18:05:652 INFO  SignInPage :57 - Click on signin button[[ChromeDriver: chrome on WINDOWS (5dd1acbc452f32f77b51b70c19fc71e9)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 18:05:742 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 18:05:899 INFO  HomePage :36 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (00b4d74518f84d77f2fa3b5904f4090a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 18:05:990 INFO  SignInPage :65 - Enter email[[ChromeDriver: chrome on WINDOWS (00b4d74518f84d77f2fa3b5904f4090a)] -> id: email]
+2022-05-17 18:05:46 INFO  SignInPage :69 - Enter password[[ChromeDriver: chrome on WINDOWS (00b4d74518f84d77f2fa3b5904f4090a)] -> id: passwd]
+2022-05-17 18:05:868 INFO  SignInPage :57 - Click on signin button[[ChromeDriver: chrome on WINDOWS (00b4d74518f84d77f2fa3b5904f4090a)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:354 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:333 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (3c9d967455258374e28921339ee6c4f0)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:502 INFO  SignInPage :64 - Click on create account[[ChromeDriver: chrome on WINDOWS (3c9d967455258374e28921339ee6c4f0)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 22:05:115 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (3c9d967455258374e28921339ee6c4f0)] -> id: customer_firstname]
+2022-05-17 22:05:193 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 22:05:288 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (3c9d967455258374e28921339ee6c4f0)] -> id: passwd]
+2022-05-17 22:05:375 INFO  CreateAccountPage :89 - Enter address[[ChromeDriver: chrome on WINDOWS (3c9d967455258374e28921339ee6c4f0)] -> id: address1]
+2022-05-17 22:05:501 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:457 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (b5edb6142b1a0bd1b5838ff9cce2584a)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:491 INFO  SignInPage :53 - Authentication Text[[ChromeDriver: chrome on WINDOWS (b5edb6142b1a0bd1b5838ff9cce2584a)] -> xpath: //h1[contains(text(),'Authentication')]]
+2022-05-17 22:05:312 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:857 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (89d2808c20b49e455a18ad6501858f94)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:918 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (89d2808c20b49e455a18ad6501858f94)] -> id: email]
+2022-05-17 22:05:15 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (89d2808c20b49e455a18ad6501858f94)] -> id: passwd]
+2022-05-17 22:05:768 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (89d2808c20b49e455a18ad6501858f94)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:800 INFO  SignInPage :79 - Get error Message[[ChromeDriver: chrome on WINDOWS (89d2808c20b49e455a18ad6501858f94)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 22:05:581 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:624 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (54b954b69243ef884c85f3258ede1550)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:693 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (54b954b69243ef884c85f3258ede1550)] -> id: email]
+2022-05-17 22:05:762 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (54b954b69243ef884c85f3258ede1550)] -> id: passwd]
+2022-05-17 22:05:325 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (54b954b69243ef884c85f3258ede1550)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:369 INFO  SignInPage :79 - Get error Message[[ChromeDriver: chrome on WINDOWS (54b954b69243ef884c85f3258ede1550)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 22:05:127 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:858 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (16d239404c66774b9afa512dbb287236)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:936 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (16d239404c66774b9afa512dbb287236)] -> id: email]
+2022-05-17 22:05:17 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (16d239404c66774b9afa512dbb287236)] -> id: passwd]
+2022-05-17 22:05:959 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (16d239404c66774b9afa512dbb287236)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:999 INFO  SignInPage :79 - Get error Message[[ChromeDriver: chrome on WINDOWS (16d239404c66774b9afa512dbb287236)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 22:05:786 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:563 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (087c023f78de05592e2d0cd31232e083)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:640 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (087c023f78de05592e2d0cd31232e083)] -> id: email]
+2022-05-17 22:05:740 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (087c023f78de05592e2d0cd31232e083)] -> id: passwd]
+2022-05-17 22:05:833 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (087c023f78de05592e2d0cd31232e083)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:866 INFO  SignInPage :79 - Get error Message[[ChromeDriver: chrome on WINDOWS (087c023f78de05592e2d0cd31232e083)] -> xpath: //div[@class='alert alert-danger']//ol]
+2022-05-17 22:05:607 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:593 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (74b328b26c40e0c578021959cd94364f)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:687 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (74b328b26c40e0c578021959cd94364f)] -> id: email]
+2022-05-17 22:05:770 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (74b328b26c40e0c578021959cd94364f)] -> id: passwd]
+2022-05-17 22:05:624 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (74b328b26c40e0c578021959cd94364f)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:453 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:717 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (e713ad105a466045c9ddb22dd4c63dff)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:809 INFO  SignInPage :69 - Enter email[[ChromeDriver: chrome on WINDOWS (e713ad105a466045c9ddb22dd4c63dff)] -> id: email]
+2022-05-17 22:05:902 INFO  SignInPage :74 - Enter password[[ChromeDriver: chrome on WINDOWS (e713ad105a466045c9ddb22dd4c63dff)] -> id: passwd]
+2022-05-17 22:05:349 INFO  SignInPage :59 - Click on signin button[[ChromeDriver: chrome on WINDOWS (e713ad105a466045c9ddb22dd4c63dff)] -> xpath: //button[@name='SubmitLogin']]
+2022-05-17 22:05:59 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:223 INFO  HomePage :42 - Click on women logo link[[ChromeDriver: chrome on WINDOWS (c5d883abb893e9462a8b1282c518482b)] -> xpath: //a[@title='Women']]
+2022-05-17 22:05:245 INFO  WomenCategoryPage :49 - verify Women Text : [[ChromeDriver: chrome on WINDOWS (c5d883abb893e9462a8b1282c518482b)] -> xpath: //h2[contains(text(),'Women')]]<br>
+2022-05-17 22:05:245 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:483 INFO  HomePage :42 - Click on women logo link[[ChromeDriver: chrome on WINDOWS (8772dd2b3f936c4c7450621fe8edfe88)] -> xpath: //a[@title='Women']]
+2022-05-17 22:05:488 INFO  WomenCategoryPage :96 - verify Successfully Added : Blouse<br>
+2022-05-17 22:05:921 INFO  WomenCategoryPage :69 - select SortBy : [[ChromeDriver: chrome on WINDOWS (8772dd2b3f936c4c7450621fe8edfe88)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-17 22:05:84 INFO  WomenCategoryPage :75 - select SortBy : Proxy element for: DefaultElementLocator 'By.xpath: //select[@id='selectProductSort']'<br>
+2022-05-17 22:05:194 INFO  WomenCategoryPage :101 - verify Successfully Added : White<br>
+2022-05-17 22:05:298 INFO  WomenCategoryPage :80 - select SortBy : [[ChromeDriver: chrome on WINDOWS (8772dd2b3f936c4c7450621fe8edfe88)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-17 22:05:375 INFO  WomenCategoryPage :86 - verify Successfully Added : [[ChromeDriver: chrome on WINDOWS (8772dd2b3f936c4c7450621fe8edfe88)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-17 22:05:388 INFO  WomenCategoryPage :91 - click XBtn : [[ChromeDriver: chrome on WINDOWS (8772dd2b3f936c4c7450621fe8edfe88)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-17 22:05:615 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:81 INFO  HomePage :42 - Click on women logo link[[ChromeDriver: chrome on WINDOWS (4081a7ef85681bdc04d2fbac2ad100aa)] -> xpath: //a[@title='Women']]
+2022-05-17 22:05:89 INFO  WomenCategoryPage :96 - verify Successfully Added : Printed Dress<br>
+2022-05-17 22:05:116 INFO  WomenCategoryPage :69 - select SortBy : [[ChromeDriver: chrome on WINDOWS (4081a7ef85681bdc04d2fbac2ad100aa)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-17 22:05:271 INFO  WomenCategoryPage :75 - select SortBy : Proxy element for: DefaultElementLocator 'By.xpath: //select[@id='selectProductSort']'<br>
+2022-05-17 22:05:363 INFO  WomenCategoryPage :101 - verify Successfully Added : Orange<br>
+2022-05-17 22:05:453 INFO  WomenCategoryPage :80 - select SortBy : [[ChromeDriver: chrome on WINDOWS (4081a7ef85681bdc04d2fbac2ad100aa)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-17 22:05:549 INFO  WomenCategoryPage :86 - verify Successfully Added : [[ChromeDriver: chrome on WINDOWS (4081a7ef85681bdc04d2fbac2ad100aa)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-17 22:05:560 INFO  WomenCategoryPage :91 - click XBtn : [[ChromeDriver: chrome on WINDOWS (4081a7ef85681bdc04d2fbac2ad100aa)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-17 22:05:620 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:359 INFO  HomePage :42 - Click on women logo link[[ChromeDriver: chrome on WINDOWS (4a2f3264e74986cab50c62604ecdb45d)] -> xpath: //a[@title='Women']]
+2022-05-17 22:05:363 INFO  WomenCategoryPage :96 - verify Successfully Added : Printed Chiffon Dress<br>
+2022-05-17 22:05:670 INFO  WomenCategoryPage :69 - select SortBy : [[ChromeDriver: chrome on WINDOWS (4a2f3264e74986cab50c62604ecdb45d)] -> xpath: //input[@id='quantity_wanted']]<br>
+2022-05-17 22:05:820 INFO  WomenCategoryPage :75 - select SortBy : Proxy element for: DefaultElementLocator 'By.xpath: //select[@id='selectProductSort']'<br>
+2022-05-17 22:05:868 INFO  WomenCategoryPage :101 - verify Successfully Added : Green<br>
+2022-05-17 22:05:952 INFO  WomenCategoryPage :80 - select SortBy : [[ChromeDriver: chrome on WINDOWS (4a2f3264e74986cab50c62604ecdb45d)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2022-05-17 22:05:50 INFO  WomenCategoryPage :86 - verify Successfully Added : [[ChromeDriver: chrome on WINDOWS (4a2f3264e74986cab50c62604ecdb45d)] -> xpath: //body[1]/div[1]/div[1]/header[1]/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/h2[1]]<br>
+2022-05-17 22:05:66 INFO  WomenCategoryPage :91 - click XBtn : [[ChromeDriver: chrome on WINDOWS (4a2f3264e74986cab50c62604ecdb45d)] -> xpath: //header/div[3]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]]<br>
+2022-05-17 22:05:494 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:357 INFO  HomePage :42 - Click on women logo link[[ChromeDriver: chrome on WINDOWS (99ddf0da5ef0c1590fcfd5bf8ea12905)] -> xpath: //a[@title='Women']]
+2022-05-17 22:05:362 INFO  WomenCategoryPage :96 - verify Successfully Added : Printed Summer Dress with Price $28.98<br>
+2022-05-17 22:05:185 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:813 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (be941d23254805930c1d5609b59ca3f0)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:00 INFO  SignInPage :64 - Click on create account[[ChromeDriver: chrome on WINDOWS (be941d23254805930c1d5609b59ca3f0)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 22:05:275 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (be941d23254805930c1d5609b59ca3f0)] -> id: customer_firstname]
+2022-05-17 22:05:350 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 22:05:420 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (be941d23254805930c1d5609b59ca3f0)] -> id: passwd]
+2022-05-17 22:05:507 INFO  CreateAccountPage :89 - Enter address[[ChromeDriver: chrome on WINDOWS (be941d23254805930c1d5609b59ca3f0)] -> id: address1]
+2022-05-17 22:05:533 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-17 22:05:489 INFO  HomePage :37 - Click n Signin link[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> xpath: //a[contains(text(),'Sign in')]]
+2022-05-17 22:05:661 INFO  SignInPage :64 - Click on create account[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> xpath: //button[@name='SubmitCreate']]
+2022-05-17 22:05:132 INFO  CreateAccountPage :71 - Enter first Name[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: customer_firstname]
+2022-05-17 22:05:216 INFO  CreateAccountPage :75 - Enter last nameBarby
+2022-05-17 22:05:290 INFO  CreateAccountPage :79 - Enter password[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: passwd]
+2022-05-17 22:05:399 INFO  CreateAccountPage :89 - Enter address[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: address1]
+2022-05-17 22:05:486 INFO  CreateAccountPage :93 - Enter city name[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: city]
+2022-05-17 22:05:730 INFO  CreateAccountPage :97 - Enter state[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: id_state]
+2022-05-17 22:05:805 INFO  CreateAccountPage :101 - Enter zipcode[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: postcode]
+2022-05-17 22:05:881 INFO  CreateAccountPage :105 - Enter phone number[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: phone_mobile]
+2022-05-17 22:05:868 INFO  CreateAccountPage :109 - Click on register btn[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> id: submitAccount]
+2022-05-17 22:05:923 INFO  CreateAccountPage :113 - Verify signout link on display[[ChromeDriver: chrome on WINDOWS (8d6b8d27f5de305cd41d9817535ac5fc)] -> xpath: //a[@class='logout']]
